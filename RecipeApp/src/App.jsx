@@ -24,6 +24,7 @@ function App() {
       .catch(error => console.error('Error fetching recipes:', error));
   }, []);
 
+  //After adding a recipe, save the recipes array to local storage.
   const addRecipe = (recipe) => {
     setRecipes([...recipes, { ...recipe, id: recipes.length + 1 }]);
   };
