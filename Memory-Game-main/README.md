@@ -1,6 +1,7 @@
 # Memory Card Game
 
 Memory Card Game using HTML, CSS, and JavaScript. The game aims to test and enhance users' memory skills by providing an engaging and interactive platform for matching pairs of cards.
+
 ![image](https://github.com/user-attachments/assets/58867aba-a5aa-43f4-96f4-b72391dba451)
 
 ## Overview
